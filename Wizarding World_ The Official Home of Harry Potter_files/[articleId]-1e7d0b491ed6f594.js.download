@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9838],{57646:function(n,e,t){"use strict";t.r(e),t.d(e,{__N_SSG:function(){return _}});var u=(0,t(27662).Z)("news").ArticlePageComponent,_=!0;e.default=u},22521:function(n,e,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/news/[articleId]",function(){return t(57646)}])}},function(n){n.O(0,[3662,378,2557,6812,6066,2795,361,4210,342,4019,5090,5381,7541,9774,2888,179],(function(){return e=22521,n(n.s=e);var e}));var e=n.O();_N_E=e}]);
+//# sourceMappingURL=[articleId]-1e7d0b491ed6f594.js.map
